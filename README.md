@@ -9,9 +9,10 @@
 | Github | [ohmae](https://github.com/ohmae) |
 | Twitter | [@ryo_mm2d](https://twitter.com/ryo_mm2d) |
 | Qiita | [@ryo_mm2d](https://qiita.com/ryo_mm2d) |
+| Address | 埼玉県 |
+| Hometown | 兵庫県 |
 
 ## 言語
-
 - 日本語
   - ネイティブ
 - 英語
@@ -32,10 +33,9 @@
 - C++ / C# (Visual Studio)
 
 ## 職務経歴
-
 ### ヤフー株式会社
 2016年10月～現在
-- Androidアプリエンジニア
+- Androidアプリ開発
   - 言語: Java / Kotlin
   - 担当アプリ
     - [Yahoo! JAPAN](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.yjtop)
@@ -65,10 +65,10 @@
 - [Java/Androidライブラリ](https://bintray.com/ohmae/maven)
 
 ### 登壇
-- [DroidKaigi 2018](https://droidkaigi.jp/2018/timetable?session=16679)
-  - タッチイベントを捕まえよう
 - [DroidKaigi 2019](https://droidkaigi.jp/2019/timetable/70931)
   - Chrome Custom Tabsの仕組みから学ぶプロセス間通信
+- [DroidKaigi 2018](https://droidkaigi.jp/2018/timetable?session=16679)
+  - タッチイベントを捕まえよう
 
 ### ハッカソン
 - [NTTドコモxTBS TV HACK DAY](http://www.tbs.co.jp/nd_tv_hack_day/)
