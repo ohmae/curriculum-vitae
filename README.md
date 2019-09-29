@@ -10,7 +10,7 @@
 | Github | [ohmae](https://github.com/ohmae) |
 | Twitter | [@ryo_mm2d](https://twitter.com/ryo_mm2d) |
 | Qiita | [@ryo_mm2d](https://qiita.com/ryo_mm2d) |
-| 現住所 | 埼玉県 |
+| 現住所 | 兵庫県 |
 | 出身地 | 兵庫県 |
 
 ## 言語
