@@ -49,6 +49,7 @@
     - [Yahoo! JAPAN](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.yjtop)
     - [Yahoo!ブラウザー](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.ybrowser)
     - [Yahoo!きせかえ](https://play.google.com/store/apps/details?id=com.buzzpia.aqua.launcher.buzzhome)
+    - [Yahoo!天気](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.weather.type1)
 
 ### シャープ株式会社
 
