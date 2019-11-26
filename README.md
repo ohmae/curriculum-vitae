@@ -80,6 +80,8 @@
 
 ### 登壇
 
+- [DroidKaigi 2020](https://droidkaigi.jp/2020/accepted) (予定)
+  - 俺が今までやらかした失敗事例、やらかしそうになったヒヤリハット事例を紹介する
 - [DroidKaigi 2019](https://droidkaigi.jp/2019/timetable/70931)
   - Chrome Custom Tabsの仕組みから学ぶプロセス間通信
 - [DroidKaigi 2018](https://droidkaigi.jp/2018/timetable?session=16679)
