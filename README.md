@@ -12,6 +12,7 @@
 | Qiita | [@ryo_mm2d](https://qiita.com/ryo_mm2d) |
 | 現住所 | 兵庫県 |
 | 出身地 | 兵庫県 |
+| 家族 | 独身 |
 
 ## 言語
 
@@ -49,6 +50,8 @@
     - [Yahoo! JAPAN](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.yjtop)
     - [Yahoo!ブラウザー](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.ybrowser)
     - [Yahoo!きせかえ](https://play.google.com/store/apps/details?id=com.buzzpia.aqua.launcher.buzzhome)
+    - [Yahoo! MAP](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.apps.map)
+    - [Yahoo!防災速報](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.emg)
     - [Yahoo!天気](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.weather.type1)
 
 ### シャープ株式会社
@@ -76,12 +79,14 @@
 ### 趣味開発
 
 - [Androidアプリ](https://play.google.com/store/apps/developer?id=OHMAE+Ryosuke)
-- [Java/Androidライブラリ](https://bintray.com/ohmae/maven)
+- [Java/Androidライブラリ](https://search.maven.org/search?q=net.mm2d)
 
 ### 登壇
 
 - [DroidKaigi 2020](https://droidkaigi.jp/2020/timetable/153684) (開催中止)
   - 俺が今までやらかした失敗事例、やらかしそうになったヒヤリハット事例を紹介する
+- [Mix Leap Study #57](https://yahoo-osaka.connpass.com/event/159924/)
+  - Androidアプリの使いやすさのための技術的な工夫と取り組み
 - [DroidKaigi 2019](https://droidkaigi.jp/2019/timetable/70931)
   - Chrome Custom Tabsの仕組みから学ぶプロセス間通信
 - [DroidKaigi 2018](https://droidkaigi.jp/2018/timetable?session=16679)
@@ -93,3 +98,8 @@
   - 最優秀賞・ビジネス部門優秀賞
 - [NTT西日本xTBS TV HACK DAY 2015](http://www.tbs.co.jp/nw_tv_hack_day_2015/)
   - 最優秀賞・テクノロジー部門優秀賞
+
+### 執筆活動
+
+- [Qiita](https://qiita.com/ryo_mm2d)
+- [Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/entry/20200311817921/)
