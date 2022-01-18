@@ -83,6 +83,9 @@
 
 ### 登壇
 
+- [Developers Summit 2021 Summer](https://event.shoeisha.jp/devsumi/20210730/session/3238/)
+  - Yahoo!天気アプリ 雨雲レーダー大幅アップデート開発の取り組み
+  - [記事](https://codezine.jp/article/detail/14683)
 - [DroidKaigi 2020](https://droidkaigi.jp/2020/timetable/153684) (開催中止)
   - 俺が今までやらかした失敗事例、やらかしそうになったヒヤリハット事例を紹介する
 - [Mix Leap Study #57](https://yahoo-osaka.connpass.com/event/159924/)
@@ -102,4 +105,6 @@
 ### 執筆活動
 
 - [Qiita](https://qiita.com/ryo_mm2d)
-- [Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/entry/20200311817921/)
+- Yahoo! JAPAN Tech Blog
+  - [直感的なUI操作の実装ノウハウを紹介 〜 Yahoo!天気アプリリニューアル #Android開発](https://techblog.yahoo.co.jp/entry/20200311817921/)
+  - [雨雲レーダー大幅アップデート 開発の舞台裏をエンジニア目線で紹介！ 〜 Yahoo!天気アプリ](https://techblog.yahoo.co.jp/entry/2021102530209844/)
