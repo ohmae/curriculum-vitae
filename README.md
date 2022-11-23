@@ -7,7 +7,7 @@
 | 氏名 | <ruby><rb>大前良介</rb><rt>おおまえりょうすけ</rt></ruby> (OHMAE Ryosuke) |
 | mail | ryo@mm2d.net |
 | Website | https://www.mm2d.net/ |
-| Github | [ohmae](https://github.com/ohmae) |
+| GitHub | [ohmae](https://github.com/ohmae) |
 | Twitter | [@ryo_mm2d](https://twitter.com/ryo_mm2d) |
 | Qiita | [@ryo_mm2d](https://qiita.com/ryo_mm2d) |
 | 現住所 | 兵庫県 |
@@ -34,7 +34,7 @@
 
 ### 趣味程度
 
-- HTML / CSS / Javascript
+- HTML / CSS / JavaScript
 - PHP
 - C++ / C# (Visual Studio)
 
@@ -61,18 +61,18 @@
 - 液晶テレビ用組み込みソフトウェア開発 (2015年4月～)
   - C言語 (Linux)
   - ネットワークストリーミング機能開発
-  - OS / カーネルドライバ / プロセス間通信 / ソケット通信 / ストリームパーサー / UI / マイコン など
+  - OS / カーネルドライバー / プロセス間通信 / ソケット通信 / ストリームパーサー / UI / マイコン など
   - 開発環境/検証用サーバー (Linux/CentOS) のメンテナンス
-  - 検証・デモ用コンテンツの制作(ffmpeg)
+  - 検証・デモ用コンテンツの制作 (ffmpeg)
 - Android開発 (2012年8月頃～)
   - プリインアプリ開発 (テレビ再生 / 番組表 / ホーム / リモコン / etc.)
-  - デモ用アプリ・コンテンツ制作（HTML / CSS / Javascript）
+  - デモ用アプリ・コンテンツ制作（HTML / CSS / JavaScript）
   - git / wikiなど開発用サーバー環境構築、運用（Linux/Ubuntu）
   - Android OS (CTSなど)
 
 ## 学歴
 
-東北大学大学院 情報科学研究科 情報基礎科学専攻卒
+東北大学大学院 情報科学研究科 情報基礎科学専攻 卒
 
 ## その他活動
 
@@ -83,6 +83,8 @@
 
 ### 登壇
 
+- [Tech-Verse 2022](https://tech-verse.me/ja/sessions/142)
+  - 新たな価値を提供し続けるためのコード健全化の取り組み～Yahoo!天気アプリ
 - [Developers Summit 2021 Summer](https://event.shoeisha.jp/devsumi/20210730/session/3238/)
   - Yahoo!天気アプリ 雨雲レーダー大幅アップデート開発の取り組み
   - [記事](https://codezine.jp/article/detail/14683)
