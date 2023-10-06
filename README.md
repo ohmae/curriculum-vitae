@@ -36,9 +36,18 @@
 
 - HTML / CSS / JavaScript
 - PHP
-- C++ / C# (Visual Studio)
+- C++ / C#
 
 ## 職務経歴
+
+### LINEヤフー株式会社
+
+2023年10月～現在
+
+- Androidアプリ開発
+  - 言語: Kotlin
+  - 担当アプリ
+    - [Yahoo!天気](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.weather.type1)
 
 ### ヤフー株式会社
 
@@ -74,6 +83,12 @@
 
 東北大学大学院 情報科学研究科 情報基礎科学専攻 卒
 
+## 資格・免許
+
+- 普通自動車第一種免許（2001年1月）
+- 基本情報処理技術者（2001年11月）
+- ソフトウェア開発技術者（2002年6月）
+
 ## その他活動
 
 ### 趣味開発
@@ -83,8 +98,11 @@
 
 ### 登壇
 
+- [DroidKaigi 2023](https://2023.droidkaigi.jp/timetable/488133/)
+  - Kotlinハイパフォーマンスプログラミング
 - [Tech-Verse 2022](https://tech-verse.me/ja/sessions/142)
   - 新たな価値を提供し続けるためのコード健全化の取り組み～Yahoo!天気アプリ
+  - [記事](https://techblog.yahoo.co.jp/entry/2023013130406238/)
 - [Developers Summit 2021 Summer](https://event.shoeisha.jp/devsumi/20210730/session/3238/)
   - Yahoo!天気アプリ 雨雲レーダー大幅アップデート開発の取り組み
   - [記事](https://codezine.jp/article/detail/14683)
@@ -109,4 +127,4 @@
 - [Qiita](https://qiita.com/ryo_mm2d)
 - Yahoo! JAPAN Tech Blog
   - [直感的なUI操作の実装ノウハウを紹介 〜 Yahoo!天気アプリリニューアル #Android開発](https://techblog.yahoo.co.jp/entry/20200311817921/)
-  - [雨雲レーダー大幅アップデート 開発の舞台裏をエンジニア目線で紹介！ 〜 Yahoo!天気アプリ](https://techblog.yahoo.co.jp/entry/2021102530209844/)
+  - [雨雲レーダー大幅アップデート 開発の舞台裏をエンジニア目線で紹介！ 〜 Yahoo!天気アプリ](https://techblog.yahoo.co.jp/entry/2021102530209844/)
