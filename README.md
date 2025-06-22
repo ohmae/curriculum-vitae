@@ -4,7 +4,7 @@
 
 |||
 |--|--|
-| 氏名 | <ruby><rb>大前良介</rb><rt>おおまえりょうすけ</rt></ruby> (OHMAE Ryosuke) |
+| 氏名 | <ruby>大前良介<rt>おおまえりょうすけ</rt></ruby> (OHMAE Ryosuke) |
 | mail | ryo@mm2d.net |
 | Website | https://www.mm2d.net/ |
 | GitHub | [ohmae](https://github.com/ohmae) |
@@ -30,7 +30,8 @@
 - Linux系組み込み開発
   - C言語
 - ネットワーク（TCP/IP）
-  - パケットキャプチャを使っての解析など
+  - socket通信
+  - パケット解析
 
 ### 趣味程度
 
@@ -40,28 +41,27 @@
 
 ## 職務経歴
 
-### LINEヤフー株式会社
-
-2023年10月～現在
-
-- Androidアプリ開発
-  - 言語: Kotlin
-  - 担当アプリ
-    - [Yahoo!天気](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.weather.type1)
-
-### ヤフー株式会社
+### LINEヤフー株式会社（ヤフー株式会社）
 
 2016年10月～現在
 
 - Androidアプリ開発
   - 言語: Java / Kotlin
-  - 担当アプリ
-    - [Yahoo! JAPAN](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.yjtop)
-    - [Yahoo!ブラウザー](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.ybrowser)
-    - [Yahoo!きせかえ](https://play.google.com/store/apps/details?id=com.buzzpia.aqua.launcher.buzzhome)
-    - [Yahoo! MAP](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.apps.map)
-    - [Yahoo!防災速報](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.emg)
+  - 担当プロダクト
     - [Yahoo!天気](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.weather.type1)
+      - 2019/10～ テックリード
+    - [Yahoo!防災速報](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.emg)
+      - 2019/10～
+    - [Yahoo! MAP](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.apps.map)
+      - 2020/4～2020/9
+    - [Yahoo!きせかえ](https://play.google.com/store/apps/details?id=com.buzzpia.aqua.launcher.buzzhome)
+      - 2018/10～2019/9
+    - タブブラウザSDK
+      - 2016/10～2019/9
+    - [Yahoo! JAPAN](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.yjtop)
+      - 2017/10～2019/9
+    - [Yahoo!ブラウザー](https://play.google.com/store/apps/details?id=jp.co.yahoo.android.ybrowser)
+      - 2016/10～2018/9
 
 ### シャープ株式会社
 
